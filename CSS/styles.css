@@ -610,8 +610,8 @@ a {
 
 /* Blocks or Sections */
 .block {
-  --padding-verticle: 6rem;
-  padding: var(--padding-verticle) 2rem;
+  padding-top: 6rem;
+  padding-bottom: 2rem;
 }
 
 .block__heading {
@@ -631,12 +631,12 @@ a {
 
 .block--skewed-right {
   clip-path: polygon(0% 0%, 100% 0%, 100% 100%, 0% 90%);
-  padding-bottom: calc(--padding-vertical + 4rem);
+  padding-bottom: 4rem;
 }
 
 .block--skewed-left {
   clip-path: polygon(0% 0%, 100% 0%, 100% 90%, 0% 100%);
-  padding-bottom: calc(--padding-vertical + 4rem);
+  padding-bottom: 4rem;
 }
 
 .block__header {
