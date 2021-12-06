@@ -15,9 +15,8 @@ view site: https://cloud-service-project.netlify.app/
 ## Tech Stack
 
 **Client:** 
-![GitHub license](https://img.shields.io/badge/HTML5-darkblue?style=for-the-badge&logo=html5&logoColor=white) ![GitHub license](https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white) 
 
-![GitHub license](https://img.shields.io/badge/JavaScript-darkblue?style=for-the-badge&logo=javascript&logoColor=white) 
+![GitHub license](https://img.shields.io/badge/HTML5-darkblue?style=for-the-badge&logo=html5&logoColor=white) ![GitHub license](https://img.shields.io/badge/CSS3-darkblue?style=for-the-badge&logo=css3&logoColor=white) ![GitHub license](https://img.shields.io/badge/JavaScript-darkblue?style=for-the-badge&logo=javascript&logoColor=white) 
 ## Lessons Learned
 
 the fundamentals of responsive "bottom up" web construction. I learned the essentials of typography, serving images based on users' display, using third party API services; and
