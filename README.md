@@ -1,4 +1,4 @@
-# Moshified
+# Moshified Landing Page
 
 A cloud service project provided by Coding with Mosh. 
 
